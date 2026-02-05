@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Smart Expense Manager",
+  "description": "A digital twin of the traditional Indian Rojmel/Khatavahi ledger. Features a dual-column layout for income and expenses with automatic balancing and category management.",
+  "requestFramePermissions": []
+}
